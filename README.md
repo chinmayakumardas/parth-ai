@@ -1,2 +1,3 @@
 # parth-ai
-Parth ai is a ai integrated productivity app the build ot make discipline na dlater it make as saas.
+Parth ai is a ai integrated productivity app the build ot make discipline na dlater it make as saas...
+
